@@ -26,6 +26,7 @@ table.highlight > tbody > tr:hover {
     width: 100% !important;
   }
 
+
   .add_user_modal_back{
     position: fixed;
     width: 100%;
@@ -56,4 +57,14 @@ table.highlight > tbody > tr:hover {
   overflow: auto;
   }
   
+  .page_number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+
+  }
   
